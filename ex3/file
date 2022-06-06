@@ -1,0 +1,7 @@
+total 40
+-rw-rw---- 1 elad elad     0 Jun  6 04:25 file
+-rwxrwxr-x 1 elad elad 17176 Jun  6 04:24 myshell
+-rw-rw-rw- 1 elad elad  1032 Dec  5  2021 shell1.c
+-rw-rw-rw- 1 elad elad  1443 Dec  5  2021 shell2.c
+-rw-rw-rw- 1 elad elad  2687 Dec  9 17:02 shell3.c
+-rw------- 1 elad elad  4799 Jun  6 04:16 shell.c
